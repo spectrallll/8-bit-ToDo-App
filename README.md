@@ -1,3 +1,5 @@
-# тесты
---- > App.tests.tsx
 # 8-bit-ToDo-App
+
+# тесты
+--- > TodoForm --> TodoForm.test.tsx
+--- > TodoTask --> TodoTask.test.tsx
